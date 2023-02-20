@@ -1,2 +1,1 @@
-welome
-
+print ("welcome to Python")
